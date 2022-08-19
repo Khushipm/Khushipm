@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Mahamunkar</h1>
 <h3 align="center">A curious amateur...</h3>
-<h3 align="left">I am currently practicing problem solving in Java.</h3>
+<h3 align="left">I am currently learning JavaScript.</h3>
+
 
 
 <p align="left"> <a href="https://twitter.com/khushimahamunk2" target="blank"><img src="https://img.shields.io/twitter/follow/khushimahamunk2?logo=twitter&style=for-the-badge" alt="khushimahamunk2" /></a> </p>

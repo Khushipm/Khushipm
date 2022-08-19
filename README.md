@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Mahamunkar</h1>
 <h3 align="center">A curious amateur...</h3>
-<h3 align="left">I am currently learning JavaScript.</h3>
+<h3 align="left">I am currently learning JavaScript😀.</h3>
 
 
 
